@@ -1,0 +1,13 @@
+J:\gis\p2\GISSampleApplication2\GISSampleApplication2\GISSampleApplication2\obj\Debug\GISSampleApplication2.csproj.ResolveComReference.cache
+J:\gis\p2\GISSampleApplication2\GISSampleApplication2\GISSampleApplication2\obj\Debug\Interop.MapWinGIS.dll
+J:\gis\p2\GISSampleApplication2\GISSampleApplication2\GISSampleApplication2\obj\Debug\GISSampleApplication2.Form1.resources
+J:\gis\p2\GISSampleApplication2\GISSampleApplication2\GISSampleApplication2\obj\Debug\GISSampleApplication2.Properties.Resources.resources
+J:\gis\p2\GISSampleApplication2\GISSampleApplication2\GISSampleApplication2\obj\Debug\GISSampleApplication2.csproj.GenerateResource.Cache
+J:\gis\p2\GISSampleApplication2\GISSampleApplication2\GISSampleApplication2\bin\Debug\GISSampleApplication2.exe
+J:\gis\p2\GISSampleApplication2\GISSampleApplication2\GISSampleApplication2\bin\Debug\GISSampleApplication2.pdb
+J:\gis\p2\GISSampleApplication2\GISSampleApplication2\GISSampleApplication2\bin\Debug\Interop.MapWinGIS.dll
+J:\gis\p2\GISSampleApplication2\GISSampleApplication2\GISSampleApplication2\bin\Debug\AxInterop.MapWinGIS.dll
+J:\gis\p2\GISSampleApplication2\GISSampleApplication2\GISSampleApplication2\obj\Debug\AxInterop.MapWinGIS.dll
+J:\gis\p2\GISSampleApplication2\GISSampleApplication2\GISSampleApplication2\obj\Debug\GISSampleApplication2.exe
+J:\gis\p2\GISSampleApplication2\GISSampleApplication2\GISSampleApplication2\obj\Debug\GISSampleApplication2.pdb
+J:\gis\p2\GISSampleApplication2\GISSampleApplication2\GISSampleApplication2\obj\Debug\GISSampleApplication2.csprojResolveAssemblyReference.cache
